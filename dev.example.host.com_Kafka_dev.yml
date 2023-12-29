@@ -1,0 +1,7 @@
+
+      dev:
+        host: dev.example.host.com
+        port: 8070
+        config_path: /d/d1/dev/kafka/config
+        instance_name: Kafka_dev
+        # Add more configuration fields as needed
