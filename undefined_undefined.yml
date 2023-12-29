@@ -1,0 +1,7 @@
+
+      undefined:
+        host: undefined
+        port: undefined
+        config_path: undefined
+        instance_name: undefined
+        # Add more configuration fields as needed
