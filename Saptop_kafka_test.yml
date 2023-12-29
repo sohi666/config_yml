@@ -1,0 +1,6 @@
+
+      host: myhost.example.com
+      port: 303
+      config_path: /var/tmp/kafka/config
+      instance_name: kafka_test
+      # Add more configuration fields as needed
