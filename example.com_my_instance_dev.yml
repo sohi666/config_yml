@@ -1,0 +1,7 @@
+
+dev:
+  host: dev-host
+  port: dev-port
+  config_path: dev-config-path
+  instance_name: dev-instance
+  # Add more configuration fields as needed
