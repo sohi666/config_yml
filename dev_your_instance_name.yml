@@ -1,0 +1,27 @@
+dev:
+  proid: your_proid
+  host: your_host
+  port: your_port
+  config_path: your_config_path
+  instance_name: your_instance_name
+  topics:
+    - topic_name: topic_1
+      replicas: 3
+      status: active
+      partition: 4
+      consumers:
+        - consumer1
+        - consumer2
+      producers:
+        - producer1
+        - producer2
+    - topic_name: topic_2
+      replicas: 2
+      status: inactive
+      partition: 5
+      consumers:
+        - consumer3
+        - consumer4
+      producers:
+        - producer3
+        - producer4
