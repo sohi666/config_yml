@@ -1,0 +1,27 @@
+dev:
+  proid: kafka
+  host: ivapp300.devin1.com
+  port: 52300
+  config_path: /d/d1/dev/kafka/config
+  instance_name: confluent_one
+  topics:
+    - topic_name: topic_1_kafka_confluent
+      replicas: 3
+      status: active
+      partition: 4
+      consumers:
+        - consumer1@cibinc.ca
+        - consumer2@cibinc.ca
+      producers:
+        - producer1@cibinc.ca
+        - producer2@cibinc.ca
+    - topic_name: topic_2_kafka_confluent
+      replicas: 2
+      status: inactive
+      partition: 5
+      consumers:
+        - consumer3@cibinc.ca
+        - consumer4@cibinc.ca
+      producers:
+        - producer3@cibinc.ca
+        - producer4@cibinc.ca
