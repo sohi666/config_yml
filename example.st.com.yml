@@ -1,6 +1,0 @@
-dev:
-    proid: some_id
-    status: active
-    host: dev.example.host.com
-    port: 8070
-

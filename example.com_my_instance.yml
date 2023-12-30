@@ -1,7 +1,0 @@
-
-      dev:
-        host: example.com
-        port: 8080
-        config_path: /path/to/config
-        instance_name: my_instance
-        # Add more configuration fields as needed

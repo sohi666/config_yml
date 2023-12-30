@@ -1,7 +1,0 @@
-
-      prod:
-        host: prod.host.com
-        port: 8060
-        config_path: /d/d1/kafka/config
-        instance_name: Kafka
-        # Add more configuration fields as needed

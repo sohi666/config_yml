@@ -1,7 +1,0 @@
-
-      qa:
-        host: qa.example.host.com
-        port: 8090
-        config_path: /d/d1/qa/kafka/config
-        instance_name: Kafka_qa
-        # Add more configuration fields as needed
