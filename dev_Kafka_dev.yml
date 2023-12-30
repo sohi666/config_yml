@@ -1,0 +1,12 @@
+
+dev:
+  proid: some_id
+  status: active
+  host: dev.example.host.com
+  port: 8070
+  config_path: /d/d1/dev/kafka/config
+  instance_name: Kafka_dev
+  topic_name: topic1
+  replicas: 3
+  topic_name: topic2
+  replicas: 2
