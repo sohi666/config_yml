@@ -1,0 +1,6 @@
+dev:
+  proid: Airflow
+  host: example-host.com
+  port: 8090
+  schedule: daily
+  apps:
