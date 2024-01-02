@@ -1,0 +1,22 @@
+dev:
+  proid: Airflowd
+  host: example-host.com
+  port: 8090
+  schedule: daily
+  apps:
+    - app_name: App_1
+      status: active
+      owners:
+        - Owner A
+        - Owner B
+      acls:
+        - ACL_1
+        - ACL_2
+    - app_name: App_2
+      status: inactive
+      owners:
+        - Owner C
+        - Owner D
+      acls:
+        - ACL_3
+        - ACL_4
